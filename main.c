@@ -1,12 +1,14 @@
 #include <stdio.h>
 
-#anggota 1
+ketua
 
 int main() {
     print "Kalkulator Konversi Suhu";
 
 }
 
+#anggota 1
+void konversi suhu ();
+
 #anggota 2
 #anggota 3
-#anggota 4
