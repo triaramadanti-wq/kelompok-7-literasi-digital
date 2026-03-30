@@ -11,4 +11,6 @@ int main() {
 void konversi suhu ();
 
 #anggota 2
+void konversi ();
+
 #anggota 3
